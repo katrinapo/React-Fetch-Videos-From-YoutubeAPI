@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Fetch-Videos-From-YoutubeAPI/static/css/main.96c11df6.chunk.css",
+    "main.js": "/React-Fetch-Videos-From-YoutubeAPI/static/js/main.df090a49.chunk.js",
+    "main.js.map": "/React-Fetch-Videos-From-YoutubeAPI/static/js/main.df090a49.chunk.js.map",
+    "runtime-main.js": "/React-Fetch-Videos-From-YoutubeAPI/static/js/runtime-main.544a2ff8.js",
+    "runtime-main.js.map": "/React-Fetch-Videos-From-YoutubeAPI/static/js/runtime-main.544a2ff8.js.map",
+    "static/js/2.54894ef1.chunk.js": "/React-Fetch-Videos-From-YoutubeAPI/static/js/2.54894ef1.chunk.js",
+    "static/js/2.54894ef1.chunk.js.map": "/React-Fetch-Videos-From-YoutubeAPI/static/js/2.54894ef1.chunk.js.map",
+    "index.html": "/React-Fetch-Videos-From-YoutubeAPI/index.html",
+    "precache-manifest.95099024da1c184788a6bb40441064c5.js": "/React-Fetch-Videos-From-YoutubeAPI/precache-manifest.95099024da1c184788a6bb40441064c5.js",
+    "service-worker.js": "/React-Fetch-Videos-From-YoutubeAPI/service-worker.js",
+    "static/css/main.96c11df6.chunk.css.map": "/React-Fetch-Videos-From-YoutubeAPI/static/css/main.96c11df6.chunk.css.map",
+    "static/js/2.54894ef1.chunk.js.LICENSE.txt": "/React-Fetch-Videos-From-YoutubeAPI/static/js/2.54894ef1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.544a2ff8.js",
+    "static/js/2.54894ef1.chunk.js",
+    "static/css/main.96c11df6.chunk.css",
+    "static/js/main.df090a49.chunk.js"
+  ]
+}
