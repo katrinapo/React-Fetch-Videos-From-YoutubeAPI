@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Fetch-Videos-From-YoutubeAPI/static/css/main.96c11df6.chunk.css",
-    "main.js": "/React-Fetch-Videos-From-YoutubeAPI/static/js/main.df090a49.chunk.js",
-    "main.js.map": "/React-Fetch-Videos-From-YoutubeAPI/static/js/main.df090a49.chunk.js.map",
-    "runtime-main.js": "/React-Fetch-Videos-From-YoutubeAPI/static/js/runtime-main.544a2ff8.js",
-    "runtime-main.js.map": "/React-Fetch-Videos-From-YoutubeAPI/static/js/runtime-main.544a2ff8.js.map",
-    "static/js/2.54894ef1.chunk.js": "/React-Fetch-Videos-From-YoutubeAPI/static/js/2.54894ef1.chunk.js",
-    "static/js/2.54894ef1.chunk.js.map": "/React-Fetch-Videos-From-YoutubeAPI/static/js/2.54894ef1.chunk.js.map",
-    "index.html": "/React-Fetch-Videos-From-YoutubeAPI/index.html",
-    "precache-manifest.95099024da1c184788a6bb40441064c5.js": "/React-Fetch-Videos-From-YoutubeAPI/precache-manifest.95099024da1c184788a6bb40441064c5.js",
-    "service-worker.js": "/React-Fetch-Videos-From-YoutubeAPI/service-worker.js",
-    "static/css/main.96c11df6.chunk.css.map": "/React-Fetch-Videos-From-YoutubeAPI/static/css/main.96c11df6.chunk.css.map",
-    "static/js/2.54894ef1.chunk.js.LICENSE.txt": "/React-Fetch-Videos-From-YoutubeAPI/static/js/2.54894ef1.chunk.js.LICENSE.txt"
+    "main.css": "/Youtube-Clone/static/css/main.96c11df6.chunk.css",
+    "main.js": "/Youtube-Clone/static/js/main.d5ac024b.chunk.js",
+    "main.js.map": "/Youtube-Clone/static/js/main.d5ac024b.chunk.js.map",
+    "runtime-main.js": "/Youtube-Clone/static/js/runtime-main.7ce599f8.js",
+    "runtime-main.js.map": "/Youtube-Clone/static/js/runtime-main.7ce599f8.js.map",
+    "static/js/2.54894ef1.chunk.js": "/Youtube-Clone/static/js/2.54894ef1.chunk.js",
+    "static/js/2.54894ef1.chunk.js.map": "/Youtube-Clone/static/js/2.54894ef1.chunk.js.map",
+    "index.html": "/Youtube-Clone/index.html",
+    "precache-manifest.0a54a6efdd91cecfbde83ca1c543f172.js": "/Youtube-Clone/precache-manifest.0a54a6efdd91cecfbde83ca1c543f172.js",
+    "service-worker.js": "/Youtube-Clone/service-worker.js",
+    "static/css/main.96c11df6.chunk.css.map": "/Youtube-Clone/static/css/main.96c11df6.chunk.css.map",
+    "static/js/2.54894ef1.chunk.js.LICENSE.txt": "/Youtube-Clone/static/js/2.54894ef1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.544a2ff8.js",
+    "static/js/runtime-main.7ce599f8.js",
     "static/js/2.54894ef1.chunk.js",
     "static/css/main.96c11df6.chunk.css",
-    "static/js/main.df090a49.chunk.js"
+    "static/js/main.d5ac024b.chunk.js"
   ]
 }
